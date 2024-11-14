@@ -1,0 +1,11 @@
+[test_requires]
+gtest/1.13.0
+catch2/3.7.1
+doctest/2.4.11
+
+[generators]
+CMakeDeps
+CMakeToolchain
+
+[layout]
+cmake_layout
